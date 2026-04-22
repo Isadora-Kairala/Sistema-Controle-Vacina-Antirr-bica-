@@ -20,48 +20,32 @@ Aplicação web desenvolvida para a **Vigilância Epidemiológica de Franca/SP**
 ### 👑 Administrador do Sistema (Acesso Total)
 
 * **CPF:** 000.000.000-01
+* **SENHA:** admin123
 * **Perfil:** Admin
-* **O que vê:** Todos os menus, incluindo as configurações globais do sistema
 
 ---
 
 ### 👩‍⚕️ Enfermeiro
 
 * **CPF:** 000.000.000-02
+* **SENHA:** enf123 
 * **Perfil:** Enfermeiro
-* **O que vê:**
-
-  * Dashboard
-  * Novo SINAN
-  * Busca de Paciente
-  * Solicitação de Soro
-  * Notificações
 
 ---
 
 ### 📊 Gerente / Gestor
 
 * **CPF:** 000.000.000-03
+* **SENHA:** ger123
 * **Perfil:** Gestor
-* **O que vê:**
-
-  * Dashboard
-  * Gestão de Casos
-  * Busca de Paciente
-  * Relatórios
-  * Notificações
 
 ---
 
 ### 🧾 Escritor / Digitador
 
 * **CPF:** 000.000.000-04
+* **SENHA:** dig123
 * **Perfil:** Digitador
-* **O que vê:**
-
-  * Dashboard
-  * Acesso Digitador
-  * Notificações
 
 ---
 
