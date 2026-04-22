@@ -27,24 +27,24 @@ Aplicação web desenvolvida para a **Vigilância Epidemiológica de Franca/SP**
 
 ### 👩‍⚕️ Enfermeiro
 
-* **CPF:** 000.000.000-02
-* **SENHA:** enf123 
+* **CPF:** 22222222222
+* **SENHA:** 123
 * **Perfil:** Enfermeiro
 
 ---
 
 ### 📊 Gerente / Gestor
 
-* **CPF:** 000.000.000-03
-* **SENHA:** ger123
+* **CPF:** 33333333333
+* **SENHA:** 123
 * **Perfil:** Gestor
 
 ---
 
 ### 🧾 Escritor / Digitador
 
-* **CPF:** 000.000.000-04
-* **SENHA:** dig123
+* **CPF:** 000.000.000-04 / 44444444444
+* **SENHA:** dig123 / 123 
 * **Perfil:** Digitador
 
 ---
