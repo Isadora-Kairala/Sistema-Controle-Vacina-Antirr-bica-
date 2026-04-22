@@ -11,6 +11,58 @@ Aplicação web desenvolvida para a **Vigilância Epidemiológica de Franca/SP**
 * 🌐 **Frontend (Lovable):** *[https://sistema-controle-vacinas-antirrabicas-final.lovable.app]*
 * 🤖 **Versão futura (Antigravity):** *[adicione aqui futuramente]*
 
+  
+
+## 🔐 Acessos de Teste (Antigravity)
+
+> ⚠️ Utilize os acessos abaixo para testar diferentes perfis do sistema.
+
+### 👑 Administrador do Sistema (Acesso Total)
+
+* **CPF:** 000.000.000-01
+* **Perfil:** Admin
+* **O que vê:** Todos os menus, incluindo as configurações globais do sistema
+
+---
+
+### 👩‍⚕️ Enfermeiro
+
+* **CPF:** 000.000.000-02
+* **Perfil:** Enfermeiro
+* **O que vê:**
+
+  * Dashboard
+  * Novo SINAN
+  * Busca de Paciente
+  * Solicitação de Soro
+  * Notificações
+
+---
+
+### 📊 Gerente / Gestor
+
+* **CPF:** 000.000.000-03
+* **Perfil:** Gestor
+* **O que vê:**
+
+  * Dashboard
+  * Gestão de Casos
+  * Busca de Paciente
+  * Relatórios
+  * Notificações
+
+---
+
+### 🧾 Escritor / Digitador
+
+* **CPF:** 000.000.000-04
+* **Perfil:** Digitador
+* **O que vê:**
+
+  * Dashboard
+  * Acesso Digitador
+  * Notificações
+
 ---
 
 ## 🧠 Sobre o Projeto
