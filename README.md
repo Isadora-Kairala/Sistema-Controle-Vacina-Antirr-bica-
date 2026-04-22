@@ -19,8 +19,8 @@ Aplicação web desenvolvida para a **Vigilância Epidemiológica de Franca/SP**
 
 ### 👑 Administrador do Sistema (Acesso Total)
 
-* **CPF:** 000.000.000-01
-* **SENHA:** admin123
+* **CPF:** 12345678900
+* **SENHA:** 123456
 * **Perfil:** Admin
 
 ---
