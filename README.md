@@ -9,7 +9,7 @@ Aplicação web desenvolvida para a **Vigilância Epidemiológica de Franca/SP**
 ## 🚀 Acesso à Aplicação
 
 * 🌐 **Frontend (Lovable):** *[https://sistema-controle-vacinas-antirrabicas-final.lovable.app]*
-* 🤖 **Versão  (Antigravity):** *[https://sisvacina-antigravity.vercel.app/login]*
+* 🤖 **Versão  (Antigravity):** *[https://sisvacina-antigravity-qibo.vercel.app/]*
 
   
 
