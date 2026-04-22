@@ -43,8 +43,8 @@ Aplicação web desenvolvida para a **Vigilância Epidemiológica de Franca/SP**
 
 ### 🧾 Escritor / Digitador
 
-* **CPF:** 000.000.000-04 / 44444444444
-* **SENHA:** dig123 / 123 
+* **CPF:**  44444444444
+* **SENHA:**  123 
 * **Perfil:** Digitador
 
 ---
